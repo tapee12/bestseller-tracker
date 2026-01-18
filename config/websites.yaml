@@ -1,1 +1,41 @@
+websites:
+  - name: Ethnic plus
+    url: https://www.ethnicplus.in/
+    platform: shopify
+
+  - name: looknbook
+    url: https://looknbookart.com/
+    platform: shopify
+
+  - name: HOUSE OF INDYA
+    url: https://www.houseofindya.com/
+    platform: shopify
+
+  - name: C bazaar
+    url: https://www.cbazaar.com/in/
+    platform: shopify
+
+  - name: cloth villa
+    url: https://clothsvilla.com/
+    platform: shopify
+
+  - name: acriine
+    url: https://acriine.in/
+    platform: shopify
+
+  - name: andaaz fashion
+    url: https://www.andaazfashion.com/
+    platform: shopify
+
+  - name: mirraw
+    url: https://www.mirraw.com/
+    platform: shopify
+
+  - name: utsav fashion
+    url: https://www.utsavfashion.com/
+    platform: shopify
+
+  - name: indian wedding saree
+    url: https://www.indianweddingsaree.com/
+    platform: shopify
 # website list will be added later
